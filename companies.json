@@ -1,0 +1,3096 @@
+[
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AALR.png",
+    "fullName": "CENTRO DE IMAGEM DIAGNOSTICOS S.A.",
+    "shortName": "ALLIAR",
+    "fileName": "AALR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ABCB.png",
+    "fullName": "BCO ABC BRASIL S.A.",
+    "shortName": "ABC BRASIL",
+    "fileName": "ABCB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ABEV.png",
+    "fullName": "AMBEV S.A.",
+    "shortName": "AMBEV S/A",
+    "fileName": "ABEV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ADHM.png",
+    "fullName": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.",
+    "shortName": "ADVANCED-DH",
+    "fileName": "ADHM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AFLT.png",
+    "fullName": "AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A",
+    "shortName": "AFLUENTE T",
+    "fileName": "AFLT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AGRO.png",
+    "fullName": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS",
+    "shortName": "BRASILAGRO",
+    "fileName": "AGRO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AHEB.png",
+    "fullName": "SAO PAULO TURISMO S.A.",
+    "shortName": "SPTURIS",
+    "fileName": "AHEB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AHEB.png",
+    "fullName": "SAO PAULO TURISMO S.A.",
+    "shortName": "SPTURIS",
+    "fileName": "AHEB5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AHEB.png",
+    "fullName": "SAO PAULO TURISMO S.A.",
+    "shortName": "SPTURIS",
+    "fileName": "AHEB6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALPA.png",
+    "fullName": "ALPARGATAS S.A.",
+    "shortName": "ALPARGATAS",
+    "fileName": "ALPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALPA.png",
+    "fullName": "ALPARGATAS S.A.",
+    "shortName": "ALPARGATAS",
+    "fileName": "ALPA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALPK.png",
+    "fullName": "ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A",
+    "shortName": "ESTAPAR",
+    "fileName": "ALPK3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALSC.png",
+    "fullName": "ALIANSCE SHOPPING CENTERS S.A.",
+    "shortName": "ALIANSCE",
+    "fileName": "ALSC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/alfabeto/a.png",
+    "fullName": "ALIANSCE SONAE SHOPPING CENTERS S.A.",
+    "shortName": "ALIANSCSONAE",
+    "fileName": "ALSO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALUP.png",
+    "fullName": "ALUPAR INVESTIMENTO S/A",
+    "shortName": "ALUPAR",
+    "fileName": "ALUP11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALUP.png",
+    "fullName": "ALUPAR INVESTIMENTO S/A",
+    "shortName": "ALUPAR",
+    "fileName": "ALUP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ALUP.png",
+    "fullName": "ALUPAR INVESTIMENTO S/A",
+    "shortName": "ALUPAR",
+    "fileName": "ALUP4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AMAR.png",
+    "fullName": "MARISA LOJAS S.A.",
+    "shortName": "LOJAS MARISA",
+    "fileName": "AMAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AMBP.png",
+    "fullName": "AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A",
+    "shortName": "AMBIPAR",
+    "fileName": "AMBP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ANIM.png",
+    "fullName": "ANIMA HOLDING S.A.",
+    "shortName": "ANIMA",
+    "fileName": "ANIM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/APER.png",
+    "fullName": "ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+    "shortName": "ALPER S.A.",
+    "fileName": "APER3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/APTI.png",
+    "fullName": "SIDERURGICA J. L. ALIPERTI S.A.",
+    "shortName": "ALIPERTI",
+    "fileName": "APTI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/APTI.png",
+    "fullName": "SIDERURGICA J. L. ALIPERTI S.A.",
+    "shortName": "ALIPERTI",
+    "fileName": "APTI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ARZZ.png",
+    "fullName": "AREZZO INDÚSTRIA E COMÉRCIO S.A.",
+    "shortName": "AREZZO CO",
+    "fileName": "ARZZ3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ATOM.png",
+    "fullName": "ATOM EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+    "shortName": "ATOMPAR",
+    "fileName": "ATOM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AURA.png",
+    "fullName": "AURA MINERALS INC.",
+    "shortName": "AURA 360",
+    "fileName": "AURA32"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AZEV.png",
+    "fullName": "AZEVEDO E TRAVASSOS S.A.",
+    "shortName": "AZEVEDO",
+    "fileName": "AZEV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AZEV.png",
+    "fullName": "AZEVEDO E TRAVASSOS S.A.",
+    "shortName": "AZEVEDO",
+    "fileName": "AZEV4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/AZUL.png",
+    "fullName": "AZUL S.A.",
+    "shortName": "AZUL",
+    "fileName": "AZUL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/B3SA.png",
+    "fullName": "B3 S.A. - BRASIL. BOLSA. BALCÃO",
+    "shortName": "B3",
+    "fileName": "B3SA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BAHI.png",
+    "fullName": "BAHEMA EDUCAÇÃO S.A.",
+    "shortName": "BAHEMA",
+    "fileName": "BAHI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BALM.png",
+    "fullName": "BAUMER S.A.",
+    "shortName": "BAUMER",
+    "fileName": "BALM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BALM.png",
+    "fullName": "BAUMER S.A.",
+    "shortName": "BAUMER",
+    "fileName": "BALM4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BAUH.png",
+    "fullName": "EXCELSIOR ALIMENTOS S.A.",
+    "shortName": "EXCELSIOR",
+    "fileName": "BAUH3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BAUH.png",
+    "fullName": "EXCELSIOR ALIMENTOS S.A.",
+    "shortName": "EXCELSIOR",
+    "fileName": "BAUH4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BAZA.png",
+    "fullName": "BCO AMAZONIA S.A.",
+    "shortName": "AMAZONIA",
+    "fileName": "BAZA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BBAS.png",
+    "fullName": "BCO BRASIL S.A.",
+    "shortName": "BRASIL",
+    "fileName": "BBAS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BBDC.png",
+    "fullName": "BCO BRADESCO S.A.",
+    "shortName": "BRADESCO",
+    "fileName": "BBDC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BBDC.png",
+    "fullName": "BCO BRADESCO S.A.",
+    "shortName": "BRADESCO",
+    "fileName": "BBDC4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BBML.png",
+    "fullName": "BBM LOGISTICA S.A.",
+    "shortName": "BBMLOGISTICA",
+    "fileName": "BBML3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BBRK.png",
+    "fullName": "BRASIL BROKERS PARTICIPACOES S.A.",
+    "shortName": "BR BROKERS",
+    "fileName": "BBRK3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BBSE.png",
+    "fullName": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+    "shortName": "BBSEGURIDADE",
+    "fileName": "BBSE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BDLL.png",
+    "fullName": "BARDELLA S.A. INDUSTRIAS MECANICAS",
+    "shortName": "BARDELLA",
+    "fileName": "BDLL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BDLL.png",
+    "fullName": "BARDELLA S.A. INDUSTRIAS MECANICAS",
+    "shortName": "BARDELLA",
+    "fileName": "BDLL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BEEF.png",
+    "fullName": "MINERVA S.A.",
+    "shortName": "MINERVA",
+    "fileName": "BEEF3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BEES.png",
+    "fullName": "BANESTES S.A. - BCO EST ESPIRITO SANTO",
+    "shortName": "BANESTES",
+    "fileName": "BEES3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BEES.png",
+    "fullName": "BANESTES S.A. - BCO EST ESPIRITO SANTO",
+    "shortName": "BANESTES",
+    "fileName": "BEES4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BGIP.png",
+    "fullName": "BCO ESTADO DE SERGIPE S.A. - BANESE",
+    "shortName": "BANESE",
+    "fileName": "BGIP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BGIP.png",
+    "fullName": "BCO ESTADO DE SERGIPE S.A. - BANESE",
+    "shortName": "BANESE",
+    "fileName": "BGIP4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BIDI.png",
+    "fullName": "BANCO INTER S.A.",
+    "shortName": "BANCO INTER",
+    "fileName": "BIDI11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BIDI.png",
+    "fullName": "BANCO INTER S.A.",
+    "shortName": "BANCO INTER",
+    "fileName": "BIDI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BIDI.png",
+    "fullName": "BANCO INTER S.A.",
+    "shortName": "BANCO INTER",
+    "fileName": "BIDI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BIOM.png",
+    "fullName": "BIOMM S.A.",
+    "shortName": "BIOMM",
+    "fileName": "BIOM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BKBR.png",
+    "fullName": "BK BRASIL OPERAÇÃO E ASSESSORIA A RESTAURANTES SA",
+    "shortName": "BK BRASIL",
+    "fileName": "BKBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BMEB.png",
+    "fullName": "BCO MERCANTIL DO BRASIL S.A.",
+    "shortName": "MERC BRASIL",
+    "fileName": "BMEB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BMEB.png",
+    "fullName": "BCO MERCANTIL DO BRASIL S.A.",
+    "shortName": "MERC BRASIL",
+    "fileName": "BMEB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BMGB.png",
+    "fullName": "BANCO BMG S.A.",
+    "shortName": "BANCO BMG",
+    "fileName": "BMGB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BMIN.png",
+    "fullName": "BCO MERCANTIL DE INVESTIMENTOS S.A.",
+    "shortName": "MERC INVEST",
+    "fileName": "BMIN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BMIN.png",
+    "fullName": "BCO MERCANTIL DE INVESTIMENTOS S.A.",
+    "shortName": "MERC INVEST",
+    "fileName": "BMIN4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BMKS.png",
+    "fullName": "BICICLETAS MONARK S.A.",
+    "shortName": "BIC MONARK",
+    "fileName": "BMKS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BNBR.png",
+    "fullName": "BCO NORDESTE DO BRASIL S.A.",
+    "shortName": "NORD BRASIL",
+    "fileName": "BNBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BOBR.png",
+    "fullName": "BOMBRIL S.A.",
+    "shortName": "BOMBRIL",
+    "fileName": "BOBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BOBR.png",
+    "fullName": "BOMBRIL S.A.",
+    "shortName": "BOMBRIL",
+    "fileName": "BOBR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BPAC.png",
+    "fullName": "BCO BTG PACTUAL S.A.",
+    "shortName": "BTGP BANCO",
+    "fileName": "BPAC11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BPAC.png",
+    "fullName": "BCO BTG PACTUAL S.A.",
+    "shortName": "BTGP BANCO",
+    "fileName": "BPAC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BPAC.png",
+    "fullName": "BCO BTG PACTUAL S.A.",
+    "shortName": "BTGP BANCO",
+    "fileName": "BPAC5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BPAN.png",
+    "fullName": "BCO PAN S.A.",
+    "shortName": "BANCO PAN",
+    "fileName": "BPAN4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BPAR.png",
+    "fullName": "BCO ESTADO DO PARA S.A.",
+    "shortName": "BANPARA",
+    "fileName": "BPAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BPHA.png",
+    "fullName": "BRASIL PHARMA S.A.",
+    "shortName": "BR PHARMA",
+    "fileName": "BPHA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRAP.png",
+    "fullName": "BRADESPAR S.A.",
+    "shortName": "BRADESPAR",
+    "fileName": "BRAP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRAP.png",
+    "fullName": "BRADESPAR S.A.",
+    "shortName": "BRADESPAR",
+    "fileName": "BRAP4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRDT.png",
+    "fullName": "PETROBRAS DISTRIBUIDORA S/A",
+    "shortName": "PETROBRAS BR",
+    "fileName": "BRDT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRFS.png",
+    "fullName": "BRF S.A.",
+    "shortName": "BRF SA",
+    "fileName": "BRFS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE12"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE7"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRGE.png",
+    "fullName": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "shortName": "ALFA CONSORC",
+    "fileName": "BRGE8"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRIV.png",
+    "fullName": "BCO ALFA DE INVESTIMENTO S.A.",
+    "shortName": "ALFA INVEST",
+    "fileName": "BRIV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRIV.png",
+    "fullName": "BCO ALFA DE INVESTIMENTO S.A.",
+    "shortName": "ALFA INVEST",
+    "fileName": "BRIV4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRKM.png",
+    "fullName": "BRASKEM S.A.",
+    "shortName": "BRASKEM",
+    "fileName": "BRKM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRKM.png",
+    "fullName": "BRASKEM S.A.",
+    "shortName": "BRASKEM",
+    "fileName": "BRKM5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRKM.png",
+    "fullName": "BRASKEM S.A.",
+    "shortName": "BRASKEM",
+    "fileName": "BRKM6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRML.png",
+    "fullName": "BR MALLS PARTICIPACOES S.A.",
+    "shortName": "BR MALLS PAR",
+    "fileName": "BRML3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRPR.png",
+    "fullName": "BR PROPERTIES S.A.",
+    "shortName": "BR PROPERT",
+    "fileName": "BRPR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRQB.png",
+    "fullName": "BRQ SOLUCOES EM INFORMATICA S.A.",
+    "shortName": "BRQ",
+    "fileName": "BRQB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRSR.png",
+    "fullName": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+    "shortName": "BANRISUL",
+    "fileName": "BRSR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRSR.png",
+    "fullName": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+    "shortName": "BANRISUL",
+    "fileName": "BRSR5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BRSR.png",
+    "fullName": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+    "shortName": "BANRISUL",
+    "fileName": "BRSR6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BSEV.png",
+    "fullName": "BIOSEV S.A.",
+    "shortName": "BIOSEV",
+    "fileName": "BSEV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BSLI.png",
+    "fullName": "BRB BCO DE BRASILIA S.A.",
+    "shortName": "BRB BANCO",
+    "fileName": "BSLI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BSLI.png",
+    "fullName": "BRB BCO DE BRASILIA S.A.",
+    "shortName": "BRB BANCO",
+    "fileName": "BSLI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BTOW.png",
+    "fullName": "B2W - COMPANHIA DIGITAL",
+    "shortName": "B2W DIGITAL",
+    "fileName": "BTOW3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/BTTL.png",
+    "fullName": "BATTISTELLA ADM PARTICIPACOES S.A.",
+    "shortName": "BATTISTELLA",
+    "fileName": "BTTL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CALI.png",
+    "fullName": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
+    "shortName": "CONST A LIND",
+    "fileName": "CALI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CALI.png",
+    "fullName": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
+    "shortName": "CONST A LIND",
+    "fileName": "CALI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CAMB.png",
+    "fullName": "CAMBUCI S.A.",
+    "shortName": "CAMBUCI",
+    "fileName": "CAMB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CAML.png",
+    "fullName": "CAMIL ALIMENTOS S.A.",
+    "shortName": "CAMIL",
+    "fileName": "CAML3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CARD.png",
+    "fullName": "CSU CARDSYSTEM S.A.",
+    "shortName": "CSU CARDSYST",
+    "fileName": "CARD3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CASN.png",
+    "fullName": "CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
+    "shortName": "CASAN",
+    "fileName": "CASN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CASN.png",
+    "fullName": "CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
+    "shortName": "CASAN",
+    "fileName": "CASN4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CATA.png",
+    "fullName": "CIA INDUSTRIAL CATAGUASES",
+    "shortName": "IND CATAGUAS",
+    "fileName": "CATA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CATA.png",
+    "fullName": "CIA INDUSTRIAL CATAGUASES",
+    "shortName": "IND CATAGUAS",
+    "fileName": "CATA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CBEE.png",
+    "fullName": "AMPLA ENERGIA E SERVICOS S.A.",
+    "shortName": "AMPLA ENERG",
+    "fileName": "CBEE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CCPR.png",
+    "fullName": "CYRELA COMMERCIAL PROPERT S.A. EMPR PART",
+    "shortName": "CYRE COM-CCP",
+    "fileName": "CCPR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CCRO.png",
+    "fullName": "CCR S.A.",
+    "shortName": "CCR SA",
+    "fileName": "CCRO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CCXC.png",
+    "fullName": "CCX CARVÃO DA COLÔMBIA S.A.",
+    "shortName": "CCX CARVAO",
+    "fileName": "CCXC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEAB.png",
+    "fullName": "CEA MODAS S.A.",
+    "shortName": "CEA MODAS",
+    "fileName": "CEAB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEBR.png",
+    "fullName": "CIA ENERGETICA DE BRASILIA",
+    "shortName": "CEB",
+    "fileName": "CEBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEBR.png",
+    "fullName": "CIA ENERGETICA DE BRASILIA",
+    "shortName": "CEB",
+    "fileName": "CEBR5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEBR.png",
+    "fullName": "CIA ENERGETICA DE BRASILIA",
+    "shortName": "CEB",
+    "fileName": "CEBR6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEDO.png",
+    "fullName": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+    "shortName": "CEDRO",
+    "fileName": "CEDO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEDO.png",
+    "fullName": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+    "shortName": "CEDRO",
+    "fileName": "CEDO4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEEB.png",
+    "fullName": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+    "shortName": "COELBA",
+    "fileName": "CEEB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEEB.png",
+    "fullName": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+    "shortName": "COELBA",
+    "fileName": "CEEB5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEEB.png",
+    "fullName": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+    "shortName": "COELBA",
+    "fileName": "CEEB6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEED.png",
+    "fullName": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D",
+    "shortName": "CEEE-D",
+    "fileName": "CEED3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEED.png",
+    "fullName": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D",
+    "shortName": "CEEE-D",
+    "fileName": "CEED4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEGR.png",
+    "fullName": "CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG",
+    "shortName": "CEG",
+    "fileName": "CEGR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEPE.png",
+    "fullName": "CIA ENERGETICA DE PERNAMBUCO - CELPE",
+    "shortName": "CELPE",
+    "fileName": "CEPE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEPE.png",
+    "fullName": "CIA ENERGETICA DE PERNAMBUCO - CELPE",
+    "shortName": "CELPE",
+    "fileName": "CEPE5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CEPE.png",
+    "fullName": "CIA ENERGETICA DE PERNAMBUCO - CELPE",
+    "shortName": "CELPE",
+    "fileName": "CEPE6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CESP.png",
+    "fullName": "CESP - CIA ENERGETICA DE SAO PAULO",
+    "shortName": "CESP",
+    "fileName": "CESP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CESP.png",
+    "fullName": "CESP - CIA ENERGETICA DE SAO PAULO",
+    "shortName": "CESP",
+    "fileName": "CESP5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CESP.png",
+    "fullName": "CESP - CIA ENERGETICA DE SAO PAULO",
+    "shortName": "CESP",
+    "fileName": "CESP6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CGAS.png",
+    "fullName": "CIA GAS DE SAO PAULO - COMGAS",
+    "shortName": "COMGAS",
+    "fileName": "CGAS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CGAS.png",
+    "fullName": "CIA GAS DE SAO PAULO - COMGAS",
+    "shortName": "COMGAS",
+    "fileName": "CGAS5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CGRA.png",
+    "fullName": "GRAZZIOTIN S.A.",
+    "shortName": "GRAZZIOTIN",
+    "fileName": "CGRA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CGRA.png",
+    "fullName": "GRAZZIOTIN S.A.",
+    "shortName": "GRAZZIOTIN",
+    "fileName": "CGRA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CIEL.png",
+    "fullName": "CIELO S.A.",
+    "shortName": "CIELO",
+    "fileName": "CIEL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CLSC.png",
+    "fullName": "CENTRAIS ELET DE SANTA CATARINA S.A.",
+    "shortName": "CELESC",
+    "fileName": "CLSC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CLSC.png",
+    "fullName": "CENTRAIS ELET DE SANTA CATARINA S.A.",
+    "shortName": "CELESC",
+    "fileName": "CLSC4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CMIG.png",
+    "fullName": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+    "shortName": "CEMIG",
+    "fileName": "CMIG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CMIG.png",
+    "fullName": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+    "shortName": "CEMIG",
+    "fileName": "CMIG4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/alfabeto/c.png",
+    "fullName": "CIMS S.A.",
+    "shortName": "CIMS",
+    "fileName": "CMSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/alfabeto/c.png",
+    "fullName": "CIMS S.A.",
+    "shortName": "CIMS",
+    "fileName": "CMSA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CNSY.png",
+    "fullName": "CINESYSTEM S.A.",
+    "shortName": "CINESYSTEM",
+    "fileName": "CNSY3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CNTO.png",
+    "fullName": "GRUPO SBF SA",
+    "shortName": "CENTAURO",
+    "fileName": "CNTO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/COCE.png",
+    "fullName": "CIA ENERGETICA DO CEARA - COELCE",
+    "shortName": "COELCE",
+    "fileName": "COCE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/COCE.png",
+    "fullName": "CIA ENERGETICA DO CEARA - COELCE",
+    "shortName": "COELCE",
+    "fileName": "COCE5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/COCE.png",
+    "fullName": "CIA ENERGETICA DO CEARA - COELCE",
+    "shortName": "COELCE",
+    "fileName": "COCE6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/COGN.png",
+    "fullName": "COGNA EDUCAÇÃO S.A.",
+    "shortName": "COGNA ON",
+    "fileName": "COGN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/alfabeto/c.png",
+    "fullName": "CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA",
+    "shortName": "COR RIBEIRO",
+    "fileName": "CORR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/alfabeto/c.png",
+    "fullName": "CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA",
+    "shortName": "COR RIBEIRO",
+    "fileName": "CORR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CPFE.png",
+    "fullName": "CPFL ENERGIA S.A.",
+    "shortName": "CPFL ENERGIA",
+    "fileName": "CPFE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CPLE.png",
+    "fullName": "CIA PARANAENSE DE ENERGIA - COPEL",
+    "shortName": "COPEL",
+    "fileName": "CPLE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CPLE.png",
+    "fullName": "CIA PARANAENSE DE ENERGIA - COPEL",
+    "shortName": "COPEL",
+    "fileName": "CPLE5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CPLE.png",
+    "fullName": "CIA PARANAENSE DE ENERGIA - COPEL",
+    "shortName": "COPEL",
+    "fileName": "CPLE6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRDE.png",
+    "fullName": "CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.",
+    "shortName": "CR2",
+    "fileName": "CRDE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRFB.png",
+    "fullName": "ATACADÃO S.A.",
+    "shortName": "CARREFOUR BR",
+    "fileName": "CRFB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRIV.png",
+    "fullName": "FINANCEIRA ALFA S.A.- CRED FINANC E INVS",
+    "shortName": "ALFA FINANC",
+    "fileName": "CRIV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRIV.png",
+    "fullName": "FINANCEIRA ALFA S.A.- CRED FINANC E INVS",
+    "shortName": "ALFA FINANC",
+    "fileName": "CRIV4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRPG.png",
+    "fullName": "TRONOX PIGMENTOS DO BRASIL S.A.",
+    "shortName": "CRISTAL",
+    "fileName": "CRPG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRPG.png",
+    "fullName": "TRONOX PIGMENTOS DO BRASIL S.A.",
+    "shortName": "CRISTAL",
+    "fileName": "CRPG5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CRPG.png",
+    "fullName": "TRONOX PIGMENTOS DO BRASIL S.A.",
+    "shortName": "CRISTAL",
+    "fileName": "CRPG6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSAB.png",
+    "fullName": "CIA SEGUROS ALIANCA DA BAHIA",
+    "shortName": "SEG AL BAHIA",
+    "fileName": "CSAB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSAB.png",
+    "fullName": "CIA SEGUROS ALIANCA DA BAHIA",
+    "shortName": "SEG AL BAHIA",
+    "fileName": "CSAB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSAN.png",
+    "fullName": "COSAN S.A.",
+    "shortName": "COSAN",
+    "fileName": "CSAN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSMG.png",
+    "fullName": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+    "shortName": "COPASA",
+    "fileName": "CSMG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSNA.png",
+    "fullName": "CIA SIDERURGICA NACIONAL",
+    "shortName": "SID NACIONAL",
+    "fileName": "CSNA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSRN.png",
+    "fullName": "CIA ENERGETICA DO RIO GDE NORTE - COSERN",
+    "shortName": "COSERN",
+    "fileName": "CSRN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSRN.png",
+    "fullName": "CIA ENERGETICA DO RIO GDE NORTE - COSERN",
+    "shortName": "COSERN",
+    "fileName": "CSRN5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CSRN.png",
+    "fullName": "CIA ENERGETICA DO RIO GDE NORTE - COSERN",
+    "shortName": "COSERN",
+    "fileName": "CSRN6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTCA.png",
+    "fullName": "CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.",
+    "shortName": "CTC S.A.",
+    "fileName": "CTCA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTKA.png",
+    "fullName": "KARSTEN S.A.",
+    "shortName": "KARSTEN",
+    "fileName": "CTKA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTKA.png",
+    "fullName": "KARSTEN S.A.",
+    "shortName": "KARSTEN",
+    "fileName": "CTKA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTNM.png",
+    "fullName": "CIA TECIDOS NORTE DE MINAS COTEMINAS",
+    "shortName": "COTEMINAS",
+    "fileName": "CTNM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTNM.png",
+    "fullName": "CIA TECIDOS NORTE DE MINAS COTEMINAS",
+    "shortName": "COTEMINAS",
+    "fileName": "CTNM4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTSA.png",
+    "fullName": "CIA TECIDOS SANTANENSE",
+    "shortName": "SANTANENSE",
+    "fileName": "CTSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTSA.png",
+    "fullName": "CIA TECIDOS SANTANENSE",
+    "shortName": "SANTANENSE",
+    "fileName": "CTSA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CTSA.png",
+    "fullName": "CIA TECIDOS SANTANENSE",
+    "shortName": "SANTANENSE",
+    "fileName": "CTSA8"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CURY.png",
+    "fullName": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+    "shortName": "CURY S/A",
+    "fileName": "CURY3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CVCB.png",
+    "fullName": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.",
+    "shortName": "CVC BRASIL",
+    "fileName": "CVCB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/CYRE.png",
+    "fullName": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+    "shortName": "CYRELA REALT",
+    "fileName": "CYRE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DASA.png",
+    "fullName": "DIAGNOSTICOS DA AMERICA S.A.",
+    "shortName": "DASA",
+    "fileName": "DASA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DIRR.png",
+    "fullName": "DIRECIONAL ENGENHARIA S.A.",
+    "shortName": "DIRECIONAL",
+    "fileName": "DIRR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DMMO.png",
+    "fullName": "DOMMO ENERGIA S.A.",
+    "shortName": "DOMMO",
+    "fileName": "DMMO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DMVF.png",
+    "fullName": "D1000 VAREJO FARMA PARTICIPAÇÕES S.A.",
+    "shortName": "D1000VFARMA",
+    "fileName": "DMVF3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DOHL.png",
+    "fullName": "DOHLER S.A.",
+    "shortName": "DOHLER",
+    "fileName": "DOHL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DOHL.png",
+    "fullName": "DOHLER S.A.",
+    "shortName": "DOHLER",
+    "fileName": "DOHL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DTCY.png",
+    "fullName": "DTCOM - DIRECT TO COMPANY S.A.",
+    "shortName": "DTCOM-DIRECT",
+    "fileName": "DTCY3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DTCY.png",
+    "fullName": "DTCOM - DIRECT TO COMPANY S.A.",
+    "shortName": "DTCOM-DIRECT",
+    "fileName": "DTCY4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/DTEX.png",
+    "fullName": "DURATEX S.A.",
+    "shortName": "DURATEX",
+    "fileName": "DTEX3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EALT.png",
+    "fullName": "ELECTRO ACO ALTONA S.A.",
+    "shortName": "ACO ALTONA",
+    "fileName": "EALT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EALT.png",
+    "fullName": "ELECTRO ACO ALTONA S.A.",
+    "shortName": "ACO ALTONA",
+    "fileName": "EALT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ECOR.png",
+    "fullName": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+    "shortName": "ECORODOVIAS",
+    "fileName": "ECOR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ECPR.png",
+    "fullName": "EMPRESA NAC COM REDITO PART S.A.ENCORPAR",
+    "shortName": "ENCORPAR",
+    "fileName": "ECPR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ECPR.png",
+    "fullName": "EMPRESA NAC COM REDITO PART S.A.ENCORPAR",
+    "shortName": "ENCORPAR",
+    "fileName": "ECPR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EEEL.png",
+    "fullName": "CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT",
+    "shortName": "CEEE-GT",
+    "fileName": "EEEL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EEEL.png",
+    "fullName": "CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT",
+    "shortName": "CEEE-GT",
+    "fileName": "EEEL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EGIE.png",
+    "fullName": "ENGIE BRASIL ENERGIA S.A.",
+    "shortName": "ENGIE BRASIL",
+    "fileName": "EGIE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EKTR.png",
+    "fullName": "ELEKTRO REDES S.A.",
+    "shortName": "ELEKTRO",
+    "fileName": "EKTR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EKTR.png",
+    "fullName": "ELEKTRO REDES S.A.",
+    "shortName": "ELEKTRO",
+    "fileName": "EKTR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ELEK.png",
+    "fullName": "ELEKEIROZ S.A.",
+    "shortName": "ELEKEIROZ",
+    "fileName": "ELEK3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ELEK.png",
+    "fullName": "ELEKEIROZ S.A.",
+    "shortName": "ELEKEIROZ",
+    "fileName": "ELEK4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ELET.png",
+    "fullName": "CENTRAIS ELET BRAS S.A. - ELETROBRAS",
+    "shortName": "ELETROBRAS",
+    "fileName": "ELET3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ELET.png",
+    "fullName": "CENTRAIS ELET BRAS S.A. - ELETROBRAS",
+    "shortName": "ELETROBRAS",
+    "fileName": "ELET5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ELET.png",
+    "fullName": "CENTRAIS ELET BRAS S.A. - ELETROBRAS",
+    "shortName": "ELETROBRAS",
+    "fileName": "ELET6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EMAE.png",
+    "fullName": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.",
+    "shortName": "EMAE",
+    "fileName": "EMAE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EMAE.png",
+    "fullName": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.",
+    "shortName": "EMAE",
+    "fileName": "EMAE4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EMBR.png",
+    "fullName": "EMBRAER S.A.",
+    "shortName": "EMBRAER",
+    "fileName": "EMBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENAT.png",
+    "fullName": "ENAUTA PARTICIPAÇÕES S.A.",
+    "shortName": "ENAUTA PART",
+    "fileName": "ENAT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENBR.png",
+    "fullName": "EDP - ENERGIAS DO BRASIL S.A.",
+    "shortName": "ENERGIAS BR",
+    "fileName": "ENBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENEV.png",
+    "fullName": "ENEVA S.A",
+    "shortName": "ENEVA",
+    "fileName": "ENEV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENGI.png",
+    "fullName": "ENERGISA S.A.",
+    "shortName": "ENERGISA",
+    "fileName": "ENGI11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENGI.png",
+    "fullName": "ENERGISA S.A.",
+    "shortName": "ENERGISA",
+    "fileName": "ENGI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENGI.png",
+    "fullName": "ENERGISA S.A.",
+    "shortName": "ENERGISA",
+    "fileName": "ENGI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENMT.png",
+    "fullName": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+    "shortName": "ENERGISA MT",
+    "fileName": "ENMT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ENMT.png",
+    "fullName": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+    "shortName": "ENERGISA MT",
+    "fileName": "ENMT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EQPA.png",
+    "fullName": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+    "shortName": "EQTL PARA",
+    "fileName": "EQPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EQPA.png",
+    "fullName": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+    "shortName": "EQTL PARA",
+    "fileName": "EQPA5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EQPA.png",
+    "fullName": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+    "shortName": "EQTL PARA",
+    "fileName": "EQPA6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EQPA.png",
+    "fullName": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+    "shortName": "EQTL PARA",
+    "fileName": "EQPA7"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EQTL.png",
+    "fullName": "EQUATORIAL ENERGIA S.A.",
+    "shortName": "EQUATORIAL",
+    "fileName": "EQTL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ESTR.png",
+    "fullName": "MANUFATURA DE BRINQUEDOS ESTRELA S.A.",
+    "shortName": "ESTRELA",
+    "fileName": "ESTR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ESTR.png",
+    "fullName": "MANUFATURA DE BRINQUEDOS ESTRELA S.A.",
+    "shortName": "ESTRELA",
+    "fileName": "ESTR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ETER.png",
+    "fullName": "ETERNIT S.A.",
+    "shortName": "ETERNIT",
+    "fileName": "ETER3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EUCA.png",
+    "fullName": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+    "shortName": "EUCATEX",
+    "fileName": "EUCA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EUCA.png",
+    "fullName": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+    "shortName": "EUCATEX",
+    "fileName": "EUCA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EVEN.png",
+    "fullName": "EVEN CONSTRUTORA E INCORPORADORA S.A.",
+    "shortName": "EVEN",
+    "fileName": "EVEN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/EZTC.png",
+    "fullName": "EZ TEC EMPREEND. E PARTICIPACOES S.A.",
+    "shortName": "EZTEC",
+    "fileName": "EZTC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FESA.png",
+    "fullName": "CIA FERRO LIGAS DA BAHIA - FERBASA",
+    "shortName": "FERBASA",
+    "fileName": "FESA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FESA.png",
+    "fullName": "CIA FERRO LIGAS DA BAHIA - FERBASA",
+    "shortName": "FERBASA",
+    "fileName": "FESA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FHER.png",
+    "fullName": "FERTILIZANTES HERINGER S.A.",
+    "shortName": "FER HERINGER",
+    "fileName": "FHER3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FIGE.png",
+    "fullName": "INVESTIMENTOS BEMGE S.A.",
+    "shortName": "INVEST BEMGE",
+    "fileName": "FIGE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FIGE.png",
+    "fullName": "INVESTIMENTOS BEMGE S.A.",
+    "shortName": "INVEST BEMGE",
+    "fileName": "FIGE4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FLEX.png",
+    "fullName": "FLEX GESTÃO DE RELACIONAMENTOS S.A.",
+    "shortName": "FLEX S/A",
+    "fileName": "FLEX3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FLRY.png",
+    "fullName": "FLEURY S.A.",
+    "shortName": "FLEURY",
+    "fileName": "FLRY3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FNCN.png",
+    "fullName": "FINANSINOS S.A.- CREDITO FINANC E INVEST",
+    "shortName": "FINANSINOS",
+    "fileName": "FNCN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FRAS.png",
+    "fullName": "FRAS-LE S.A.",
+    "shortName": "FRAS-LE",
+    "fileName": "FRAS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FRIO.png",
+    "fullName": "METALFRIO SOLUTIONS S.A.",
+    "shortName": "METALFRIO",
+    "fileName": "FRIO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/FRTA.png",
+    "fullName": "POMIFRUTAS S/A",
+    "shortName": "POMIFRUTAS",
+    "fileName": "FRTA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GBIO.png",
+    "fullName": "BIOTOSCANA INVESTMENTS S.A.",
+    "shortName": "BIOTOSCANA",
+    "fileName": "GBIO33"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GEPA.png",
+    "fullName": "RIO PARANAPANEMA ENERGIA S.A.",
+    "shortName": "GER PARANAP",
+    "fileName": "GEPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GEPA.png",
+    "fullName": "RIO PARANAPANEMA ENERGIA S.A.",
+    "shortName": "GER PARANAP",
+    "fileName": "GEPA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GFSA.png",
+    "fullName": "GAFISA S.A.",
+    "shortName": "GAFISA",
+    "fileName": "GFSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GGBR.png",
+    "fullName": "GERDAU S.A.",
+    "shortName": "GERDAU",
+    "fileName": "GGBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GGBR.png",
+    "fullName": "GERDAU S.A.",
+    "shortName": "GERDAU",
+    "fileName": "GGBR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GNDI.png",
+    "fullName": "NOTRE DAME INTERMEDICA PARTICIPACOES SA",
+    "shortName": "INTERMEDICA",
+    "fileName": "GNDI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GOAU.png",
+    "fullName": "METALURGICA GERDAU S.A.",
+    "shortName": "GERDAU MET",
+    "fileName": "GOAU3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GOAU.png",
+    "fullName": "METALURGICA GERDAU S.A.",
+    "shortName": "GERDAU MET",
+    "fileName": "GOAU4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GOLL.png",
+    "fullName": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+    "shortName": "GOL",
+    "fileName": "GOLL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GPAR.png",
+    "fullName": "CIA CELG DE PARTICIPACOES - CELGPAR",
+    "shortName": "CELGPAR",
+    "fileName": "GPAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GPCP.png",
+    "fullName": "GPC PARTICIPACOES S.A.",
+    "shortName": "GPC PART",
+    "fileName": "GPCP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GPCP.png",
+    "fullName": "GPC PARTICIPACOES S.A.",
+    "shortName": "GPC PART",
+    "fileName": "GPCP4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GPIV.png",
+    "fullName": "GP INVESTMENTS. LTD.",
+    "shortName": "GP INVEST",
+    "fileName": "GPIV33"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GRND.png",
+    "fullName": "GRENDENE S.A.",
+    "shortName": "GRENDENE",
+    "fileName": "GRND3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GSHP.png",
+    "fullName": "GENERAL SHOPPING E OUTLETS DO BRASIL S.A.",
+    "shortName": "GENERALSHOPP",
+    "fileName": "GSHP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/GUAR.png",
+    "fullName": "GUARARAPES CONFECCOES S.A.",
+    "shortName": "GUARARAPES",
+    "fileName": "GUAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HAGA.png",
+    "fullName": "HAGA S.A. INDUSTRIA E COMERCIO",
+    "shortName": "HAGA S/A",
+    "fileName": "HAGA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HAGA.png",
+    "fullName": "HAGA S.A. INDUSTRIA E COMERCIO",
+    "shortName": "HAGA S/A",
+    "fileName": "HAGA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HAPV.png",
+    "fullName": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA",
+    "shortName": "HAPVIDA",
+    "fileName": "HAPV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HBOR.png",
+    "fullName": "HELBOR EMPREENDIMENTOS S.A.",
+    "shortName": "HELBOR",
+    "fileName": "HBOR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HBTS.png",
+    "fullName": "CIA HABITASUL DE PARTICIPACOES",
+    "shortName": "HABITASUL",
+    "fileName": "HBTS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HBTS.png",
+    "fullName": "CIA HABITASUL DE PARTICIPACOES",
+    "shortName": "HABITASUL",
+    "fileName": "HBTS5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HBTS.png",
+    "fullName": "CIA HABITASUL DE PARTICIPACOES",
+    "shortName": "HABITASUL",
+    "fileName": "HBTS6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HCBR.png",
+    "fullName": "BR HOME CENTERS S.A.",
+    "shortName": "BR HOME",
+    "fileName": "HCBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HETA.png",
+    "fullName": "HERCULES S.A. FABRICA DE TALHERES",
+    "shortName": "HERCULES",
+    "fileName": "HETA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HETA.png",
+    "fullName": "HERCULES S.A. FABRICA DE TALHERES",
+    "shortName": "HERCULES",
+    "fileName": "HETA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HGTX.png",
+    "fullName": "CIA HERING",
+    "shortName": "CIA HERING",
+    "fileName": "HGTX3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HOOT.png",
+    "fullName": "HOTEIS OTHON S.A.",
+    "shortName": "HOTEIS OTHON",
+    "fileName": "HOOT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HOOT.png",
+    "fullName": "HOTEIS OTHON S.A.",
+    "shortName": "HOTEIS OTHON",
+    "fileName": "HOOT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/HYPE.png",
+    "fullName": "HYPERA S.A.",
+    "shortName": "HYPERA",
+    "fileName": "HYPE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/IDVL.png",
+    "fullName": "BCO INDUSVAL S.A.",
+    "shortName": "INDUSVAL"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/IDVL.png",
+    "fullName": "BCO INDUSVAL S.A.",
+    "shortName": "INDUSVAL"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/IGBR.png",
+    "fullName": "IGB ELETRÔNICA S/A",
+    "shortName": "IGB S/A",
+    "fileName": "IGBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/IGSN.png",
+    "fullName": "IGUA SANEAMENTO S.A.",
+    "shortName": "IGUA SA",
+    "fileName": "IGSN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/IGTA.png",
+    "fullName": "IGUATEMI EMPRESA DE SHOPPING CENTERS S.A",
+    "shortName": "IGUATEMI",
+    "fileName": "IGTA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/INEP.png",
+    "fullName": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+    "shortName": "INEPAR",
+    "fileName": "INEP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/INEP.png",
+    "fullName": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+    "shortName": "INEPAR",
+    "fileName": "INEP4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/INNT.png",
+    "fullName": "INTER CONSTRUTORA E INCORPORADORA S.A.",
+    "shortName": "INTER SA",
+    "fileName": "INNT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/IRBR.png",
+    "fullName": "IRB - BRASIL RESSEGUROS S.A.",
+    "shortName": "IRBBRASIL RE",
+    "fileName": "IRBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ITEC.png",
+    "fullName": "ITAUTEC S.A. - GRUPO ITAUTEC",
+    "shortName": "ITAUTEC",
+    "fileName": "ITEC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ITSA.png",
+    "fullName": "ITAUSA S.A.",
+    "shortName": "ITAUSA",
+    "fileName": "ITSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ITSA.png",
+    "fullName": "ITAUSA S.A.",
+    "shortName": "ITAUSA",
+    "fileName": "ITSA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ITUB.png",
+    "fullName": "ITAU UNIBANCO HOLDING S.A.",
+    "shortName": "ITAUUNIBANCO",
+    "fileName": "ITUB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ITUB.png",
+    "fullName": "ITAU UNIBANCO HOLDING S.A.",
+    "shortName": "ITAUUNIBANCO",
+    "fileName": "ITUB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JBDU.png",
+    "fullName": "INDUSTRIAS J B DUARTE S.A.",
+    "shortName": "J B DUARTE",
+    "fileName": "JBDU3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JBDU.png",
+    "fullName": "INDUSTRIAS J B DUARTE S.A.",
+    "shortName": "J B DUARTE",
+    "fileName": "JBDU4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JBSS.png",
+    "fullName": "JBS S.A.",
+    "shortName": "JBS",
+    "fileName": "JBSS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JFEN.png",
+    "fullName": "JOAO FORTES ENGENHARIA S.A.",
+    "shortName": "JOAO FORTES",
+    "fileName": "JFEN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JHSF.png",
+    "fullName": "JHSF PARTICIPACOES S.A.",
+    "shortName": "JHSF PART",
+    "fileName": "JHSF3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JOPA.png",
+    "fullName": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP",
+    "shortName": "JOSAPAR",
+    "fileName": "JOPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JOPA.png",
+    "fullName": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP",
+    "shortName": "JOSAPAR",
+    "fileName": "JOPA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JPSA.png",
+    "fullName": "JEREISSATI PARTICIPACOES S.A.",
+    "shortName": "JEREISSATI",
+    "fileName": "JPSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/JSLG.png",
+    "fullName": "JSL S.A.",
+    "shortName": "JSL",
+    "fileName": "JSLG11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/KEPL.png",
+    "fullName": "KEPLER WEBER S.A.",
+    "shortName": "KEPLER WEBER",
+    "fileName": "KEPL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/KLBN.png",
+    "fullName": "KLABIN S.A.",
+    "shortName": "KLABIN S/A",
+    "fileName": "KLBN11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/KLBN.png",
+    "fullName": "KLABIN S.A.",
+    "shortName": "KLABIN S/A",
+    "fileName": "KLBN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/KLBN.png",
+    "fullName": "KLABIN S.A.",
+    "shortName": "KLABIN S/A",
+    "fileName": "KLBN4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LAME.png",
+    "fullName": "LOJAS AMERICANAS S.A.",
+    "shortName": "LOJAS AMERIC",
+    "fileName": "LAME3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LAME.png",
+    "fullName": "LOJAS AMERICANAS S.A.",
+    "shortName": "LOJAS AMERIC",
+    "fileName": "LAME4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LAVV.png",
+    "fullName": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
+    "shortName": "LAVVI",
+    "fileName": "LAVV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LCAM.png",
+    "fullName": "CIA LOCAÇÃO DAS AMÉRICAS",
+    "shortName": "LOCAMERICA",
+    "fileName": "LCAM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LEVE.png",
+    "fullName": "MAHLE-METAL LEVE S.A.",
+    "shortName": "METAL LEVE",
+    "fileName": "LEVE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LHER.png",
+    "fullName": "LOJAS HERING S.A.",
+    "shortName": "LOJAS HERING",
+    "fileName": "LHER3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LHER.png",
+    "fullName": "LOJAS HERING S.A.",
+    "shortName": "LOJAS HERING",
+    "fileName": "LHER4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LIGT.png",
+    "fullName": "LIGHT S.A.",
+    "shortName": "LIGHT S/A",
+    "fileName": "LIGT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LINX.png",
+    "fullName": "LINX S.A.",
+    "shortName": "LINX",
+    "fileName": "LINX3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LIPR.png",
+    "fullName": "ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR",
+    "shortName": "ELETROPAR",
+    "fileName": "LIPR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LJQQ.png",
+    "fullName": "LOJAS QUERO-QUERO S/A",
+    "shortName": "QUERO-QUERO",
+    "fileName": "LJQQ3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LMED.png",
+    "fullName": "LIFEMED INDUSTRIAL EQUIP. DE ART. MÉD. HOSP. S.A.",
+    "shortName": "LIFEMED",
+    "fileName": "LMED3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LOGG.png",
+    "fullName": "LOG COMMERCIAL PROPERTIES",
+    "shortName": "LOG COM PROP",
+    "fileName": "LOGG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LOGN.png",
+    "fullName": "LOG-IN LOGISTICA INTERMODAL S.A.",
+    "shortName": "LOG-IN",
+    "fileName": "LOGN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LPSB.png",
+    "fullName": "LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.",
+    "shortName": "LOPES BRASIL",
+    "fileName": "LPSB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LREN.png",
+    "fullName": "LOJAS RENNER S.A.",
+    "shortName": "LOJAS RENNER",
+    "fileName": "LREN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LUPA.png",
+    "fullName": "LUPATECH S.A.",
+    "shortName": "LUPATECH",
+    "fileName": "LUPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LUXM.png",
+    "fullName": "TREVISA INVESTIMENTOS S.A.",
+    "shortName": "TREVISA",
+    "fileName": "LUXM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LUXM.png",
+    "fullName": "TREVISA INVESTIMENTOS S.A.",
+    "shortName": "TREVISA",
+    "fileName": "LUXM4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/LWSA.png",
+    "fullName": "LOCAWEB SERVIÇOS DE INTERNET S.A.",
+    "shortName": "LOCAWEB",
+    "fileName": "LWSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MAPT.png",
+    "fullName": "CEMEPE INVESTIMENTOS S.A.",
+    "shortName": "CEMEPE",
+    "fileName": "MAPT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MAPT.png",
+    "fullName": "CEMEPE INVESTIMENTOS S.A.",
+    "shortName": "CEMEPE",
+    "fileName": "MAPT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MDIA.png",
+    "fullName": "M.DIAS BRANCO S.A. IND COM DE ALIMENTOS",
+    "shortName": "M.DIASBRANCO",
+    "fileName": "MDIA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MDNE.png",
+    "fullName": "MOURA DUBEUX ENGENHARIA S/A",
+    "shortName": "MOURA DUBEUX",
+    "fileName": "MDNE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MEAL.png",
+    "fullName": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.",
+    "shortName": "IMC S/A",
+    "fileName": "MEAL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MERC.png",
+    "fullName": "MERCANTIL BRASIL FINANC S.A. C.F.I.",
+    "shortName": "MERC FINANC",
+    "fileName": "MERC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MERC.png",
+    "fullName": "MERCANTIL BRASIL FINANC S.A. C.F.I.",
+    "shortName": "MERC FINANC",
+    "fileName": "MERC4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MGEL.png",
+    "fullName": "MANGELS INDUSTRIAL S.A.",
+    "shortName": "MANGELS INDL",
+    "fileName": "MGEL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MGEL.png",
+    "fullName": "MANGELS INDUSTRIAL S.A.",
+    "shortName": "MANGELS INDL",
+    "fileName": "MGEL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MGLU.png",
+    "fullName": "MAGAZINE LUIZA S.A.",
+    "shortName": "MAGAZ LUIZA",
+    "fileName": "MGLU3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MILS.png",
+    "fullName": "MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A.",
+    "shortName": "MILLS",
+    "fileName": "MILS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MMAQ.png",
+    "fullName": "MINASMAQUINAS S.A.",
+    "shortName": "MINASMAQUINA",
+    "fileName": "MMAQ3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MMAQ.png",
+    "fullName": "MINASMAQUINAS S.A.",
+    "shortName": "MINASMAQUINA",
+    "fileName": "MMAQ4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MMXM.png",
+    "fullName": "MMX MINERACAO E METALICOS S.A.",
+    "shortName": "MMX MINER",
+    "fileName": "MMXM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MNDL.png",
+    "fullName": "MUNDIAL S.A. - PRODUTOS DE CONSUMO",
+    "shortName": "MUNDIAL",
+    "fileName": "MNDL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MNPR.png",
+    "fullName": "MINUPAR PARTICIPACOES S.A.",
+    "shortName": "MINUPAR",
+    "fileName": "MNPR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MOAR.png",
+    "fullName": "MONTEIRO ARANHA S.A.",
+    "shortName": "MONT ARANHA",
+    "fileName": "MOAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MOVI.png",
+    "fullName": "MOVIDA PARTICIPACOES SA",
+    "shortName": "MOVIDA",
+    "fileName": "MOVI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MPLU.png",
+    "fullName": "MULTIPLUS S.A.",
+    "shortName": "MULTIPLUS",
+    "fileName": "MPLU3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MRFG.png",
+    "fullName": "MARFRIG GLOBAL FOODS S.A.",
+    "shortName": "MARFRIG",
+    "fileName": "MRFG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MRVE.png",
+    "fullName": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+    "shortName": "MRV",
+    "fileName": "MRVE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MSPA.png",
+    "fullName": "CIA MELHORAMENTOS DE SAO PAULO",
+    "shortName": "MELHOR SP",
+    "fileName": "MSPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MSPA.png",
+    "fullName": "CIA MELHORAMENTOS DE SAO PAULO",
+    "shortName": "MELHOR SP",
+    "fileName": "MSPA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MSRO.png",
+    "fullName": "MAESTRO LOCADORA DE VEICULOS S.A.",
+    "shortName": "MAESTROLOC",
+    "fileName": "MSRO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MTIG.png",
+    "fullName": "METALGRAFICA IGUACU S.A.",
+    "shortName": "METAL IGUACU",
+    "fileName": "MTIG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MTIG.png",
+    "fullName": "METALGRAFICA IGUACU S.A.",
+    "shortName": "METAL IGUACU",
+    "fileName": "MTIG4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MTRE.png",
+    "fullName": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
+    "shortName": "MITRE REALTY",
+    "fileName": "MTRE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MTSA.png",
+    "fullName": "METISA METALURGICA TIMBOENSE S.A.",
+    "shortName": "METISA",
+    "fileName": "MTSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MTSA.png",
+    "fullName": "METISA METALURGICA TIMBOENSE S.A.",
+    "shortName": "METISA",
+    "fileName": "MTSA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MULT.png",
+    "fullName": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+    "shortName": "MULTIPLAN",
+    "fileName": "MULT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MWET.png",
+    "fullName": "WETZEL S.A.",
+    "shortName": "WETZEL S/A",
+    "fileName": "MWET3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MWET.png",
+    "fullName": "WETZEL S.A.",
+    "shortName": "WETZEL S/A",
+    "fileName": "MWET4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/MYPK.png",
+    "fullName": "IOCHPE MAXION S.A.",
+    "shortName": "IOCHP-MAXION",
+    "fileName": "MYPK3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NAFG.png",
+    "fullName": "NADIR FIGUEIREDO IND E COM S.A.",
+    "shortName": "NADIR FIGUEI",
+    "fileName": "NAFG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NAFG.png",
+    "fullName": "NADIR FIGUEIREDO IND E COM S.A.",
+    "shortName": "NADIR FIGUEI",
+    "fileName": "NAFG4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NEMO.png",
+    "fullName": "SUZANO HOLDING S.A.",
+    "shortName": "SUZANO HOLD",
+    "fileName": "NEMO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NEMO.png",
+    "fullName": "SUZANO HOLDING S.A.",
+    "shortName": "SUZANO HOLD",
+    "fileName": "NEMO5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NEMO.png",
+    "fullName": "SUZANO HOLDING S.A.",
+    "shortName": "SUZANO HOLD",
+    "fileName": "NEMO6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NEOE.png",
+    "fullName": "NEOENERGIA S.A.",
+    "shortName": "NEOENERGIA",
+    "fileName": "NEOE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NORD.png",
+    "fullName": "NORDON INDUSTRIAS METALURGICAS S.A.",
+    "shortName": "NORDON MET",
+    "fileName": "NORD3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NRTQ.png",
+    "fullName": "NORTEC QUÍMICA S.A.",
+    "shortName": "NORTCQUIMICA",
+    "fileName": "NRTQ3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/NTCO.png",
+    "fullName": "NATURA &CO HOLDING S.A.",
+    "shortName": "GRUPO NATURA",
+    "fileName": "NTCO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ODER.png",
+    "fullName": "CONSERVAS ODERICH S.A.",
+    "shortName": "ODERICH",
+    "fileName": "ODER3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ODER.png",
+    "fullName": "CONSERVAS ODERICH S.A.",
+    "shortName": "ODERICH",
+    "fileName": "ODER4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ODPV.png",
+    "fullName": "ODONTOPREV S.A.",
+    "shortName": "ODONTOPREV",
+    "fileName": "ODPV3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/OFSA.png",
+    "fullName": "OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.",
+    "shortName": "OUROFINO S/A",
+    "fileName": "OFSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/OIBR.png",
+    "fullName": "OI S.A.",
+    "shortName": "OI",
+    "fileName": "OIBR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/OIBR.png",
+    "fullName": "OI S.A.",
+    "shortName": "OI",
+    "fileName": "OIBR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/OMGE.png",
+    "fullName": "OMEGA GERAÇÃO S.A.",
+    "shortName": "OMEGA GER",
+    "fileName": "OMGE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/OSXB.png",
+    "fullName": "OSX BRASIL S.A.",
+    "shortName": "OSX BRASIL",
+    "fileName": "OSXB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PACF.png",
+    "fullName": "PACIFIC RDSL PARTICIPAÇÕES S.A.",
+    "shortName": "PACIFIC RDSL",
+    "fileName": "PACF3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PARD.png",
+    "fullName": "INSTITUTO HERMES PARDINI S.A.",
+    "shortName": "IHPARDINI",
+    "fileName": "PARD3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PATI.png",
+    "fullName": "PANATLANTICA S.A.",
+    "shortName": "PANATLANTICA",
+    "fileName": "PATI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PATI.png",
+    "fullName": "PANATLANTICA S.A.",
+    "shortName": "PANATLANTICA",
+    "fileName": "PATI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PCAR.png",
+    "fullName": "CIA BRASILEIRA DE DISTRIBUICAO",
+    "shortName": "P.ACUCAR-CBD",
+    "fileName": "PCAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PDGR.png",
+    "fullName": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+    "shortName": "PDG REALT",
+    "fileName": "PDGR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PDTC.png",
+    "fullName": "PADTEC HOLDING S.A.",
+    "shortName": "PADTEC",
+    "fileName": "PDTC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PEAB.png",
+    "fullName": "CIA PARTICIPACOES ALIANCA DA BAHIA",
+    "shortName": "PAR AL BAHIA",
+    "fileName": "PEAB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PEAB.png",
+    "fullName": "CIA PARTICIPACOES ALIANCA DA BAHIA",
+    "shortName": "PAR AL BAHIA",
+    "fileName": "PEAB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PETR.png",
+    "fullName": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+    "shortName": "PETROBRAS",
+    "fileName": "PETR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PETR.png",
+    "fullName": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+    "shortName": "PETROBRAS",
+    "fileName": "PETR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PETZ.png",
+    "fullName": "PET CENTER COMERCIO  E PARTICIPACOES S.A.",
+    "shortName": "PETZ",
+    "fileName": "PETZ3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PFRM.png",
+    "fullName": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+    "shortName": "PROFARMA",
+    "fileName": "PFRM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PGMN.png",
+    "fullName": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+    "shortName": "PAGUE MENOS",
+    "fileName": "PGMN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PINE.png",
+    "fullName": "BCO PINE S.A.",
+    "shortName": "PINE",
+    "fileName": "PINE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PINE.png",
+    "fullName": "BCO PINE S.A.",
+    "shortName": "PINE",
+    "fileName": "PINE4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PLAS.png",
+    "fullName": "PLASCAR PARTICIPACOES INDUSTRIAIS S.A.",
+    "shortName": "PLASCAR PART",
+    "fileName": "PLAS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PMAM.png",
+    "fullName": "PARANAPANEMA S.A.",
+    "shortName": "PARANAPANEMA",
+    "fileName": "PMAM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PNVL.png",
+    "fullName": "DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS",
+    "shortName": "DIMED",
+    "fileName": "PNVL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PNVL.png",
+    "fullName": "DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS",
+    "shortName": "DIMED",
+    "fileName": "PNVL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/POMO.png",
+    "fullName": "MARCOPOLO S.A.",
+    "shortName": "MARCOPOLO",
+    "fileName": "POMO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/POMO.png",
+    "fullName": "MARCOPOLO S.A.",
+    "shortName": "MARCOPOLO",
+    "fileName": "POMO4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/POSI.png",
+    "fullName": "POSITIVO TECNOLOGIA S.A.",
+    "shortName": "POSITIVO TEC",
+    "fileName": "POSI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/alfabeto/p.png",
+    "fullName": "POLPAR S.A.",
+    "shortName": "POLPAR",
+    "fileName": "PPAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PPLA.png",
+    "fullName": "PPLA PARTICIPATIONS LTD.",
+    "shortName": "PPLA",
+    "fileName": "PPLA11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PRIO.png",
+    "fullName": "PETRO RIO S.A.",
+    "shortName": "PETRORIO",
+    "fileName": "PRIO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PRNR.png",
+    "fullName": "PRINER SERVIÇOS INDUSTRIAIS S.A.",
+    "shortName": "PRINER",
+    "fileName": "PRNR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PSSA.png",
+    "fullName": "PORTO SEGURO S.A.",
+    "shortName": "PORTO SEGURO",
+    "fileName": "PSSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PTBL.png",
+    "fullName": "PBG S/A",
+    "shortName": "PORTOBELLO",
+    "fileName": "PTBL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PTCA.png",
+    "fullName": "PRATICA KLIMAQUIP INDUSTRIA E COMERCIO SA",
+    "shortName": "PRATICA",
+    "fileName": "PTCA11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PTCA.png",
+    "fullName": "PRATICA KLIMAQUIP INDUSTRIA E COMERCIO SA",
+    "shortName": "PRATICA",
+    "fileName": "PTCA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PTNT.png",
+    "fullName": "PETTENATI S.A. INDUSTRIA TEXTIL",
+    "shortName": "PETTENATI",
+    "fileName": "PTNT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/PTNT.png",
+    "fullName": "PETTENATI S.A. INDUSTRIA TEXTIL",
+    "shortName": "PETTENATI",
+    "fileName": "PTNT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/QUAL.png",
+    "fullName": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+    "shortName": "QUALICORP",
+    "fileName": "QUAL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/QUSW.png",
+    "fullName": "QUALITY SOFTWARE S.A.",
+    "shortName": "QUALITY SOFT",
+    "fileName": "QUSW3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RADL.png",
+    "fullName": "RAIA DROGASIL S.A.",
+    "shortName": "RAIADROGASIL",
+    "fileName": "RADL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RAIL.png",
+    "fullName": "RUMO S.A.",
+    "shortName": "RUMO S.A.",
+    "fileName": "RAIL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RANI.png",
+    "fullName": "IRANI PAPEL E EMBALAGEM S.A.",
+    "shortName": "IRANI",
+    "fileName": "RANI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RANI.png",
+    "fullName": "IRANI PAPEL E EMBALAGEM S.A.",
+    "shortName": "IRANI",
+    "fileName": "RANI4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RAPT.png",
+    "fullName": "RANDON S.A. IMPLEMENTOS E PARTICIPACOES",
+    "shortName": "RANDON PART",
+    "fileName": "RAPT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RAPT.png",
+    "fullName": "RANDON S.A. IMPLEMENTOS E PARTICIPACOES",
+    "shortName": "RANDON PART",
+    "fileName": "RAPT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RCSL.png",
+    "fullName": "RECRUSUL S.A.",
+    "shortName": "RECRUSUL",
+    "fileName": "RCSL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RCSL.png",
+    "fullName": "RECRUSUL S.A.",
+    "shortName": "RECRUSUL",
+    "fileName": "RCSL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RDNI.png",
+    "fullName": "RNI NEGÓCIOS IMOBILIÁRIOS S.A.",
+    "shortName": "RNI",
+    "fileName": "RDNI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/REDE.png",
+    "fullName": "REDE ENERGIA PARTICIPAÇÕES S.A.",
+    "shortName": "REDE ENERGIA",
+    "fileName": "REDE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RENT.png",
+    "fullName": "LOCALIZA RENT A CAR S.A.",
+    "shortName": "LOCALIZA",
+    "fileName": "RENT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RLOG.png",
+    "fullName": "COSAN LOGISTICA S.A.",
+    "shortName": "COSAN LOG",
+    "fileName": "RLOG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RNEW.png",
+    "fullName": "RENOVA ENERGIA S.A.",
+    "shortName": "RENOVA",
+    "fileName": "RNEW11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RNEW.png",
+    "fullName": "RENOVA ENERGIA S.A.",
+    "shortName": "RENOVA",
+    "fileName": "RNEW3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RNEW.png",
+    "fullName": "RENOVA ENERGIA S.A.",
+    "shortName": "RENOVA",
+    "fileName": "RNEW4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/ROMI.png",
+    "fullName": "INDUSTRIAS ROMI S.A.",
+    "shortName": "INDS ROMI",
+    "fileName": "ROMI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RPAD.png",
+    "fullName": "ALFA HOLDINGS S.A.",
+    "shortName": "ALFA HOLDING",
+    "fileName": "RPAD3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RPAD.png",
+    "fullName": "ALFA HOLDINGS S.A.",
+    "shortName": "ALFA HOLDING",
+    "fileName": "RPAD5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RPAD.png",
+    "fullName": "ALFA HOLDINGS S.A.",
+    "shortName": "ALFA HOLDING",
+    "fileName": "RPAD6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RPMG.png",
+    "fullName": "REFINARIA DE PETROLEOS MANGUINHOS S.A.",
+    "shortName": "PET MANGUINH",
+    "fileName": "RPMG3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RSID.png",
+    "fullName": "ROSSI RESIDENCIAL S.A.",
+    "shortName": "ROSSI RESID",
+    "fileName": "RSID3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RSUL.png",
+    "fullName": "METALURGICA RIOSULENSE S.A.",
+    "shortName": "RIOSULENSE",
+    "fileName": "RSUL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/RSUL.png",
+    "fullName": "METALURGICA RIOSULENSE S.A.",
+    "shortName": "RIOSULENSE",
+    "fileName": "RSUL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SANB.png",
+    "fullName": "BCO SANTANDER (BRASIL) S.A.",
+    "shortName": "SANTANDER BR",
+    "fileName": "SANB11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SANB.png",
+    "fullName": "BCO SANTANDER (BRASIL) S.A.",
+    "shortName": "SANTANDER BR",
+    "fileName": "SANB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SANB.png",
+    "fullName": "BCO SANTANDER (BRASIL) S.A.",
+    "shortName": "SANTANDER BR",
+    "fileName": "SANB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SAPR.png",
+    "fullName": "CIA SANEAMENTO DO PARANA - SANEPAR",
+    "shortName": "SANEPAR",
+    "fileName": "SAPR11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SAPR.png",
+    "fullName": "CIA SANEAMENTO DO PARANA - SANEPAR",
+    "shortName": "SANEPAR",
+    "fileName": "SAPR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SAPR.png",
+    "fullName": "CIA SANEAMENTO DO PARANA - SANEPAR",
+    "shortName": "SANEPAR",
+    "fileName": "SAPR4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SBSP.png",
+    "fullName": "CIA SANEAMENTO BASICO EST SAO PAULO",
+    "shortName": "SABESP",
+    "fileName": "SBSP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SCAR.png",
+    "fullName": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+    "shortName": "SAO CARLOS",
+    "fileName": "SCAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SEDU.png",
+    "fullName": "SOMOS EDUCAÇÃO S.A.",
+    "shortName": "SOMOS EDUCA",
+    "fileName": "SEDU3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SEER.png",
+    "fullName": "SER EDUCACIONAL S.A.",
+    "shortName": "SER EDUCA",
+    "fileName": "SEER3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SGPS.png",
+    "fullName": "SPRINGS GLOBAL PARTICIPACOES S.A.",
+    "shortName": "SPRINGS",
+    "fileName": "SGPS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SHOW.png",
+    "fullName": "T4F ENTRETENIMENTO S.A.",
+    "shortName": "TIME FOR FUN",
+    "fileName": "SHOW3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SHUL.png",
+    "fullName": "SCHULZ S.A.",
+    "shortName": "SCHULZ",
+    "fileName": "SHUL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SHUL.png",
+    "fullName": "SCHULZ S.A.",
+    "shortName": "SCHULZ",
+    "fileName": "SHUL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SIMH.png",
+    "fullName": "SIMPAR S.A.",
+    "shortName": "SIMPAR",
+    "fileName": "SIMH3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SLCE.png",
+    "fullName": "SLC AGRICOLA S.A.",
+    "shortName": "SLC AGRICOLA",
+    "fileName": "SLCE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SLED.png",
+    "fullName": "SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL",
+    "shortName": "SARAIVA LIVR",
+    "fileName": "SLED3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SLED.png",
+    "fullName": "SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL",
+    "shortName": "SARAIVA LIVR",
+    "fileName": "SLED4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SMFT.png",
+    "fullName": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+    "shortName": "SMART FIT",
+    "fileName": "SMFT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SMLS.png",
+    "fullName": "SMILES FIDELIDADE S.A.",
+    "shortName": "SMILES",
+    "fileName": "SMLS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SMTO.png",
+    "fullName": "SAO MARTINHO S.A.",
+    "shortName": "SAO MARTINHO",
+    "fileName": "SMTO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SNSY.png",
+    "fullName": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+    "shortName": "SANSUY",
+    "fileName": "SNSY3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SNSY.png",
+    "fullName": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+    "shortName": "SANSUY",
+    "fileName": "SNSY5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SNSY.png",
+    "fullName": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+    "shortName": "SANSUY",
+    "fileName": "SNSY6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SOMA.png",
+    "fullName": "GRUPO DE MODA SOMA S.A.",
+    "shortName": "GRUPO SOMA",
+    "fileName": "SOMA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SOND.png",
+    "fullName": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+    "shortName": "SONDOTECNICA",
+    "fileName": "SOND3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SOND.png",
+    "fullName": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+    "shortName": "SONDOTECNICA",
+    "fileName": "SOND5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SOND.png",
+    "fullName": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+    "shortName": "SONDOTECNICA",
+    "fileName": "SOND6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SPRI.png",
+    "fullName": "SPRINGER S.A.",
+    "shortName": "SPRINGER",
+    "fileName": "SPRI3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SPRI.png",
+    "fullName": "SPRINGER S.A.",
+    "shortName": "SPRINGER",
+    "fileName": "SPRI5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SPRI.png",
+    "fullName": "SPRINGER S.A.",
+    "shortName": "SPRINGER",
+    "fileName": "SPRI6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SQIA.png",
+    "fullName": "SINQIA S.A.",
+    "shortName": "SINQIA",
+    "fileName": "SQIA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/STBP.png",
+    "fullName": "SANTOS BRASIL PARTICIPACOES S.A.",
+    "shortName": "SANTOS BRP",
+    "fileName": "STBP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/STKF.png",
+    "fullName": "STATKRAFT ENERGIAS RENOVAVEIS S.A.",
+    "shortName": "STATKRAFT",
+    "fileName": "STKF3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/STTR.png",
+    "fullName": "STARA S.A. - INDÚSTRIA DE IMPLEMENTOS AGRÍCOLAS",
+    "shortName": "STARA",
+    "fileName": "STTR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SULA.png",
+    "fullName": "SUL AMERICA S.A.",
+    "shortName": "SUL AMERICA",
+    "fileName": "SULA11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SULA.png",
+    "fullName": "SUL AMERICA S.A.",
+    "shortName": "SUL AMERICA",
+    "fileName": "SULA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SULA.png",
+    "fullName": "SUL AMERICA S.A.",
+    "shortName": "SUL AMERICA",
+    "fileName": "SULA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/SUZB.png",
+    "fullName": "SUZANO S.A.",
+    "shortName": "SUZANO S.A.",
+    "fileName": "SUZB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TAEE.png",
+    "fullName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "shortName": "TAESA",
+    "fileName": "TAEE11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TAEE.png",
+    "fullName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "shortName": "TAESA",
+    "fileName": "TAEE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TAEE.png",
+    "fullName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "shortName": "TAESA",
+    "fileName": "TAEE4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TASA.png",
+    "fullName": "TAURUS ARMAS S.A.",
+    "shortName": "TAURUS ARMAS",
+    "fileName": "TASA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TASA.png",
+    "fullName": "TAURUS ARMAS S.A.",
+    "shortName": "TAURUS ARMAS",
+    "fileName": "TASA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TCNO.png",
+    "fullName": "TECNOSOLO ENGENHARIA S.A.",
+    "shortName": "TECNOSOLO",
+    "fileName": "TCNO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TCNO.png",
+    "fullName": "TECNOSOLO ENGENHARIA S.A.",
+    "shortName": "TECNOSOLO",
+    "fileName": "TCNO4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TCSA.png",
+    "fullName": "TECNISA S.A.",
+    "shortName": "TECNISA",
+    "fileName": "TCSA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TECN.png",
+    "fullName": "TECHNOS S.A.",
+    "shortName": "TECHNOS",
+    "fileName": "TECN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TEKA.png",
+    "fullName": "TEKA-TECELAGEM KUEHNRICH S.A.",
+    "shortName": "TEKA",
+    "fileName": "TEKA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TEKA.png",
+    "fullName": "TEKA-TECELAGEM KUEHNRICH S.A.",
+    "shortName": "TEKA",
+    "fileName": "TEKA4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TELB.png",
+    "fullName": "TELEC BRASILEIRAS S.A. TELEBRAS",
+    "shortName": "TELEBRAS",
+    "fileName": "TELB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TELB.png",
+    "fullName": "TELEC BRASILEIRAS S.A. TELEBRAS",
+    "shortName": "TELEBRAS",
+    "fileName": "TELB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TEND.png",
+    "fullName": "CONSTRUTORA TENDA S.A.",
+    "shortName": "TENDA",
+    "fileName": "TEND3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TESA.png",
+    "fullName": "TERRA SANTA AGRO S.A.",
+    "shortName": "TERRA SANTA",
+    "fileName": "TESA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TGMA.png",
+    "fullName": "TEGMA GESTAO LOGISTICA S.A.",
+    "shortName": "TEGMA",
+    "fileName": "TGMA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TIET.png",
+    "fullName": "AES TIETE ENERGIA SA",
+    "shortName": "AES TIETE E",
+    "fileName": "TIET11"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TIET.png",
+    "fullName": "AES TIETE ENERGIA SA",
+    "shortName": "AES TIETE E",
+    "fileName": "TIET3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TIET.png",
+    "fullName": "AES TIETE ENERGIA SA",
+    "shortName": "AES TIETE E",
+    "fileName": "TIET4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TIMS.png",
+    "fullName": "TIM S.A.",
+    "shortName": "TIM",
+    "fileName": "TIMS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TKNO.png",
+    "fullName": "TEKNO S.A. - INDUSTRIA E COMERCIO",
+    "shortName": "TEKNO",
+    "fileName": "TKNO3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TKNO.png",
+    "fullName": "TEKNO S.A. - INDUSTRIA E COMERCIO",
+    "shortName": "TEKNO",
+    "fileName": "TKNO4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TOTS.png",
+    "fullName": "TOTVS S.A.",
+    "shortName": "TOTVS",
+    "fileName": "TOTS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TOYB.png",
+    "fullName": "TEC TOY S.A.",
+    "shortName": "TECTOY",
+    "fileName": "TOYB3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TOYB.png",
+    "fullName": "TEC TOY S.A.",
+    "shortName": "TECTOY",
+    "fileName": "TOYB4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TPIS.png",
+    "fullName": "TPI - TRIUNFO PARTICIP. E INVEST. S.A.",
+    "shortName": "TRIUNFO PART",
+    "fileName": "TPIS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TRIS.png",
+    "fullName": "TRISUL S.A.",
+    "shortName": "TRISUL",
+    "fileName": "TRIS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TRPL.png",
+    "fullName": "CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA",
+    "shortName": "TRAN PAULIST",
+    "fileName": "TRPL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TRPL.png",
+    "fullName": "CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA",
+    "shortName": "TRAN PAULIST",
+    "fileName": "TRPL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TRPN.png",
+    "fullName": "TARPON INVESTIMENTOS S.A.",
+    "shortName": "TARPON INV",
+    "fileName": "TRPN3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/TUPY.png",
+    "fullName": "TUPY S.A.",
+    "shortName": "TUPY",
+    "fileName": "TUPY3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/UCAS.png",
+    "fullName": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+    "shortName": "UNICASA",
+    "fileName": "UCAS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/UGPA.png",
+    "fullName": "ULTRAPAR PARTICIPACOES S.A.",
+    "shortName": "ULTRAPAR",
+    "fileName": "UGPA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/UNIP.png",
+    "fullName": "UNIPAR CARBOCLORO S.A.",
+    "shortName": "UNIPAR",
+    "fileName": "UNIP3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/UNIP.png",
+    "fullName": "UNIPAR CARBOCLORO S.A.",
+    "shortName": "UNIPAR",
+    "fileName": "UNIP5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/UNIP.png",
+    "fullName": "UNIPAR CARBOCLORO S.A.",
+    "shortName": "UNIPAR",
+    "fileName": "UNIP6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/USIM.png",
+    "fullName": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "shortName": "USIMINAS",
+    "fileName": "USIM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/USIM.png",
+    "fullName": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "shortName": "USIMINAS",
+    "fileName": "USIM5"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/USIM.png",
+    "fullName": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "shortName": "USIMINAS",
+    "fileName": "USIM6"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VALE.png",
+    "fullName": "VALE S.A.",
+    "shortName": "VALE",
+    "fileName": "VALE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VIVA.png",
+    "fullName": "VIVARA PARTICIPAÇOES S.A",
+    "shortName": "VIVARA S.A.",
+    "fileName": "VIVA3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VIVR.png",
+    "fullName": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+    "shortName": "VIVER",
+    "fileName": "VIVR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VIVT.png",
+    "fullName": "TELEFÔNICA BRASIL S.A",
+    "shortName": "TELEF BRASIL",
+    "fileName": "VIVT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VIVT.png",
+    "fullName": "TELEFÔNICA BRASIL S.A",
+    "shortName": "TELEF BRASIL",
+    "fileName": "VIVT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VLID.png",
+    "fullName": "VALID SOLUÇÕES S.A.",
+    "shortName": "VALID",
+    "fileName": "VLID3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VSPT.png",
+    "fullName": "FERROVIA CENTRO-ATLANTICA S.A.",
+    "shortName": "FER C ATLANT",
+    "fileName": "VSPT3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VSPT.png",
+    "fullName": "FERROVIA CENTRO-ATLANTICA S.A.",
+    "shortName": "FER C ATLANT",
+    "fileName": "VSPT4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VULC.png",
+    "fullName": "VULCABRAS/AZALEIA S.A.",
+    "shortName": "VULCABRAS",
+    "fileName": "VULC3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/VVAR.png",
+    "fullName": "VIA VAREJO S.A.",
+    "shortName": "VIAVAREJO",
+    "fileName": "VVAR3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WEGE.png",
+    "fullName": "WEG S.A.",
+    "shortName": "WEG",
+    "fileName": "WEGE3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WHRL.png",
+    "fullName": "WHIRLPOOL S.A.",
+    "shortName": "WHIRLPOOL",
+    "fileName": "WHRL3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WHRL.png",
+    "fullName": "WHIRLPOOL S.A.",
+    "shortName": "WHIRLPOOL",
+    "fileName": "WHRL4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WIZS.png",
+    "fullName": "WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A.",
+    "shortName": "WIZ S.A.",
+    "fileName": "WIZS3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WLMM.png",
+    "fullName": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+    "shortName": "WLM IND COM",
+    "fileName": "WLMM3"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WLMM.png",
+    "fullName": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
+    "shortName": "WLM IND COM",
+    "fileName": "WLMM4"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/WSON.png",
+    "fullName": "WILSON SONS LTD.",
+    "shortName": "WILSON SONS",
+    "fileName": "WSON33"
+  },
+  {
+    "img": "https://www.ivalor.com.br/media/emp/logos/YDUQ.png",
+    "fullName": "YDUQS PARTICIPACOES S.A.",
+    "shortName": "YDUQS PART",
+    "fileName": "YDUQ3"
+  }
+]
